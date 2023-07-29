@@ -1,4 +1,4 @@
-FROM alpine:3.15
+FROM alpine:3.16
 LABEL MAINTAINER Furkan SAYIM | furkan.sayim@yandex.com
 
 RUN apk update && \
